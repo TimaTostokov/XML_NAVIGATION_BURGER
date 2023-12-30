@@ -4,12 +4,12 @@
     <item
         android:id="@+id/bottom_category"
         android:icon="@drawable/ic_category_24"
-        android:title="Category" />
+        android:title="@string/category" />
 
     <item
         android:id="@+id/bottom_history"
         android:icon="@drawable/ic_history_24"
-        android:title="History" />
+        android:title="@string/history" />
 
     <item
         android:id="@+id/fab"
@@ -19,10 +19,10 @@
     <item
         android:id="@+id/bottom_notification"
         android:icon="@drawable/ic_notifications_24"
-        android:title="Notification" />
+        android:title="@string/notification" />
 
     <item
         android:id="@+id/bottom_cart"
         android:icon="@drawable/ic_cart_24"
-        android:title="Cart" />
+        android:title="@string/cart" />
 </menu>

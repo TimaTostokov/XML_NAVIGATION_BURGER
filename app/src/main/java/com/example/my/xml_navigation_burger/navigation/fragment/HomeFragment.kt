@@ -14,7 +14,6 @@ import com.example.my.xml_navigation_burger.bottom.fragment.NotificationFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
-
 class HomeFragment : Fragment() {
 
     override fun onCreateView(
